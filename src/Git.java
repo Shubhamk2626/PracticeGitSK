@@ -4,6 +4,8 @@ public class Git {
 		
 		System.out.println("new demo git");
 		
+		System.out.println("add");
+		
 	}
 	
 	
